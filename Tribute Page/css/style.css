@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+  text-align: center; 
+}
+p {
+  text-align: center;
+  font-style: italic;
+}
+body {
+  background-color: orange;
+  padding: 10px 80px 50px 80px;
+}
+.myblocks {
+  background-color: blue;
+  padding: 10px 30px 25px 30px;
+  margin: 50px 20px 50px 20px;
+  color: white;
+}
+img {
+    display: block;
+    margin: auto;
+}
